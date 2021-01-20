@@ -1,4 +1,8 @@
-# Data Analyst - Python · Pandas · Web Scrapping · Machine Learning | SQL | Tableau | MongoDB | Git | Jupyter
+# Data Analyst
+
+## Python ·Numpy · Pandas · Matplotlib · Sklearn · Plotly . Seaborn . API 
+
+## Web Scrapping | Machine Learning | SQL | Tableau | MongoDB | Git | Jupyter
 
 
 
