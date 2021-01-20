@@ -1,6 +1,6 @@
 # Data Analyst
 
-## Python | Web Scrapping | Machine Learning | SQL | Tableau | MongoDB | Git | Jupyter 
+## Python | Web Scrapping | ML | SQL | Tableau | MongoDB | Git | Jupyter 
 
 
 Hi there!
