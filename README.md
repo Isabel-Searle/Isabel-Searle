@@ -29,5 +29,4 @@ Here you can find some of my projects with which I have started this new path in
 8. [Sentiment-analysis](https://github.com/isabel-searle/sentiment-analysis): Analysis of sentiment from 286.099 tweets through all US without bias (no filters) during the post presidential election period. 
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=isabel-searle&theme=highcontrast&show_icons=true&count_private=true)
-
+Please feel free to get in touch with me via email at isabel@searle.es. 
