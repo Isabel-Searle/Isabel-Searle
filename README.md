@@ -1,13 +1,13 @@
 # Data Analyst
 
-## Python · Numpy · Pandas · Matplotlib · Sklearn · Plotly · Seaborn · API 
-
-## Web Scrapping | Machine Learning | SQL | Tableau | MongoDB | Git | Jupyter
+## Python | Web Scrapping | Machine Learning | SQL | Tableau | MongoDB | Git | Jupyter 
 
 
 Hi there!
 
 I'm a junior data analyst with the goal of being an expert data ingineer. I love coding and I really enjoy "playing" with data. 
+
+###  · Numpy · Pandas · Matplotlib · Sklearn · Plotly · Seaborn · API ·
 
 Here you can find some of my projects with which I have started this new path in the world of data:
 
